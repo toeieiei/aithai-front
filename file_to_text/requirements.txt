@@ -1,0 +1,24 @@
+# --- AI & OCR Libraries ---
+aift
+easyocr @git+https://github.com/JaidedAI/EasyOCR.git
+
+# --- Document & PDF Processing ---
+aspose-words
+aspose-slides
+docx2pdf
+fixthaipdf
+pdfplumber
+Pillow
+PyMuPDF
+python-docx
+python-pptx
+
+# --- Utilities ---
+python-dotenv
+pandas
+requests
+fastapi
+uvicorn
+pika
+python-multipart
+aiofiles
